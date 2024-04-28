@@ -1,4 +1,7 @@
 i# GitHubDemo
 Demo of commands (branches, pull, push,commit, add, etc)
-Amanullah is updating for dev branch! 
+We are now updating for dev branch! 
+NEW CHAnGES!
+
+
 
